@@ -5,7 +5,7 @@ import {SectorMap, ParsedSICCodeTable} from "./types.js";
 // Import the pre-processed JSON data directly using a relative path.
 // When mappings.ts (compiled to dist/src/mappings.js) loads,
 // '../generated-sic-data.json' will correctly point to dist/generated-sic-data.json.
-import rawSICCodeTableData from '@data/generated-sic-data.json' with {type: 'json'};
+import rawSICCodeTableData from './generated-sic-data.json' with {type: 'json'};
 
 
 /**

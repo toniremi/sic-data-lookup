@@ -77,7 +77,7 @@ function parseSicCsv(csvString) { // No type annotations in plain JS
 const parsedData = parseSicCsv(rawSICCodeTableCsvData);
 
 // Define the output path for the JSON file to be directly in the dist folder
-const outputPath = path.join(outputRoot, 'dist', 'generated-sic-data.json');
+const outputPath = path.join(outputRoot, 'src', 'generated-sic-data.json');
 const outputDir = path.dirname(outputPath);
 
 // Ensure the output directory exists

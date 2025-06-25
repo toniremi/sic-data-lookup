@@ -12,12 +12,6 @@
         "noEmitOnError": true,
         "rootDir": "./src",
         "resolveJsonModule": true,
-        "baseUrl": "./",
-        "paths": {
-            "@data/*": [
-                "./dist/*"
-            ]
-        }
     },
     "include": [
         "src/**/*.ts"

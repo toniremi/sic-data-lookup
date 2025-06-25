@@ -1,0 +1,2222 @@
+[
+  {
+    "sicCode": 100,
+    "office": "Industrial Applications and Services",
+    "industry": "AGRICULTURAL PRODUCTION-CROPS"
+  },
+  {
+    "sicCode": 200,
+    "office": "Industrial Applications and Services",
+    "industry": "AGRICULTURAL PROD-LIVESTOCK & ANIMAL SPECIALTIES"
+  },
+  {
+    "sicCode": 700,
+    "office": "Industrial Applications and Services",
+    "industry": "AGRICULTURAL SERVICES"
+  },
+  {
+    "sicCode": 800,
+    "office": "Industrial Applications and Services",
+    "industry": "FORESTRY"
+  },
+  {
+    "sicCode": 900,
+    "office": "Industrial Applications and Services",
+    "industry": "FISHING, HUNTING AND TRAPPING"
+  },
+  {
+    "sicCode": 1000,
+    "office": "Office of Energy & Transportation",
+    "industry": "METAL MINING"
+  },
+  {
+    "sicCode": 1040,
+    "office": "Office of Energy & Transportation",
+    "industry": "GOLD AND SILVER ORES"
+  },
+  {
+    "sicCode": 1090,
+    "office": "Office of Energy & Transportation",
+    "industry": "MISCELLANEOUS METAL ORES"
+  },
+  {
+    "sicCode": 1220,
+    "office": "Office of Energy & Transportation",
+    "industry": "BITUMINOUS COAL & LIGNITE MINING"
+  },
+  {
+    "sicCode": 1221,
+    "office": "Office of Energy & Transportation",
+    "industry": "BITUMINOUS COAL & LIGNITE SURFACE MINING"
+  },
+  {
+    "sicCode": 1311,
+    "office": "Office of Energy & Transportation",
+    "industry": "CRUDE PETROLEUM & NATURAL GAS"
+  },
+  {
+    "sicCode": 1381,
+    "office": "Office of Energy & Transportation",
+    "industry": "DRILLING OIL & GAS WELLS"
+  },
+  {
+    "sicCode": 1382,
+    "office": "Office of Energy & Transportation",
+    "industry": "OIL & GAS FIELD EXPLORATION SERVICES"
+  },
+  {
+    "sicCode": 1389,
+    "office": "Office of Energy & Transportation",
+    "industry": "OIL & GAS FIELD SERVICES, NEC"
+  },
+  {
+    "sicCode": 1400,
+    "office": "Office of Energy & Transportation",
+    "industry": "MINING & QUARRYING OF NONMETALLIC MINERALS (NO FUELS)"
+  },
+  {
+    "sicCode": 1520,
+    "office": "Office of Real Estate & Construction",
+    "industry": "GENERAL BLDG CONTRACTORS - RESIDENTIAL BLDGS"
+  },
+  {
+    "sicCode": 1531,
+    "office": "Office of Real Estate & Construction",
+    "industry": "OPERATIVE BUILDERS"
+  },
+  {
+    "sicCode": 1540,
+    "office": "Office of Real Estate & Construction",
+    "industry": "GENERAL BLDG CONTRACTORS - NONRESIDENTIAL BLDGS"
+  },
+  {
+    "sicCode": 1600,
+    "office": "Office of Real Estate & Construction",
+    "industry": "HEAVY CONSTRUCTION OTHER THAN BLDG CONST - CONTRACTORS"
+  },
+  {
+    "sicCode": 1623,
+    "office": "Office of Real Estate & Construction",
+    "industry": "WATER, SEWER, PIPELINE, COMM & POWER LINE CONSTRUCTION"
+  },
+  {
+    "sicCode": 1700,
+    "office": "Office of Real Estate & Construction",
+    "industry": "CONSTRUCTION - SPECIAL TRADE CONTRACTORS"
+  },
+  {
+    "sicCode": 1731,
+    "office": "Office of Real Estate & Construction",
+    "industry": "ELECTRICAL WORK"
+  },
+  {
+    "sicCode": 2000,
+    "office": "Office of Manufacturing",
+    "industry": "FOOD AND KINDRED PRODUCTS"
+  },
+  {
+    "sicCode": 2011,
+    "office": "Office of Manufacturing",
+    "industry": "MEAT PACKING PLANTS"
+  },
+  {
+    "sicCode": 2013,
+    "office": "Office of Manufacturing",
+    "industry": "SAUSAGES & OTHER PREPARED MEAT PRODUCTS"
+  },
+  {
+    "sicCode": 2015,
+    "office": "Office of Manufacturing",
+    "industry": "POULTRY SLAUGHTERING AND PROCESSING"
+  },
+  {
+    "sicCode": 2020,
+    "office": "Office of Manufacturing",
+    "industry": "DAIRY PRODUCTS"
+  },
+  {
+    "sicCode": 2024,
+    "office": "Office of Manufacturing",
+    "industry": "ICE CREAM & FROZEN DESSERTS"
+  },
+  {
+    "sicCode": 2030,
+    "office": "Office of Manufacturing",
+    "industry": "CANNED, FROZEN & PRESERVD FRUIT, VEG & FOOD SPECIALTIES"
+  },
+  {
+    "sicCode": 2033,
+    "office": "Office of Manufacturing",
+    "industry": "CANNED, FRUITS, VEG, PRESERVES, JAMS & JELLIES"
+  },
+  {
+    "sicCode": 2040,
+    "office": "Office of Manufacturing",
+    "industry": "GRAIN MILL PRODUCTS"
+  },
+  {
+    "sicCode": 2050,
+    "office": "Office of Manufacturing",
+    "industry": "BAKERY PRODUCTS"
+  },
+  {
+    "sicCode": 2052,
+    "office": "Office of Manufacturing",
+    "industry": "COOKIES & CRACKERS"
+  },
+  {
+    "sicCode": 2060,
+    "office": "Office of Manufacturing",
+    "industry": "SUGAR & CONFECTIONERY PRODUCTS"
+  },
+  {
+    "sicCode": 2070,
+    "office": "Office of Manufacturing",
+    "industry": "FATS & OILS"
+  },
+  {
+    "sicCode": 2080,
+    "office": "Office of Manufacturing",
+    "industry": "BEVERAGES"
+  },
+  {
+    "sicCode": 2082,
+    "office": "Office of Manufacturing",
+    "industry": "MALT BEVERAGES"
+  },
+  {
+    "sicCode": 2086,
+    "office": "Office of Manufacturing",
+    "industry": "BOTTLED & CANNED SOFT DRINKS & CARBONATED WATERS"
+  },
+  {
+    "sicCode": 2090,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS FOOD PREPARATIONS & KINDRED PRODUCTS"
+  },
+  {
+    "sicCode": 2092,
+    "office": "Office of Manufacturing",
+    "industry": "PREPARED FRESH OR FROZEN FISH & SEAFOODS"
+  },
+  {
+    "sicCode": 2100,
+    "office": "Office of Manufacturing",
+    "industry": "TOBACCO PRODUCTS"
+  },
+  {
+    "sicCode": 2111,
+    "office": "Office of Manufacturing",
+    "industry": "CIGARETTES"
+  },
+  {
+    "sicCode": 2200,
+    "office": "Office of Manufacturing",
+    "industry": "TEXTILE MILL PRODUCTS"
+  },
+  {
+    "sicCode": 2211,
+    "office": "Office of Manufacturing",
+    "industry": "BROADWOVEN FABRIC MILLS, COTTON"
+  },
+  {
+    "sicCode": 2221,
+    "office": "Office of Manufacturing",
+    "industry": "BROADWOVEN FABRIC MILLS, MAN MADE FIBER & SILK"
+  },
+  {
+    "sicCode": 2250,
+    "office": "Office of Manufacturing",
+    "industry": "KNITTING MILLS"
+  },
+  {
+    "sicCode": 2253,
+    "office": "Office of Manufacturing",
+    "industry": "KNIT OUTERWEAR MILLS"
+  },
+  {
+    "sicCode": 2273,
+    "office": "Office of Manufacturing",
+    "industry": "CARPETS & RUGS"
+  },
+  {
+    "sicCode": 2300,
+    "office": "Office of Manufacturing",
+    "industry": "APPAREL & OTHER FINISHD PRODS OF FABRICS & SIMILAR MATL"
+  },
+  {
+    "sicCode": 2320,
+    "office": "Office of Manufacturing",
+    "industry": "MEN'S & BOYS' FURNISHGS, WORK CLOTHG, & ALLIED GARMENTS"
+  },
+  {
+    "sicCode": 2330,
+    "office": "Office of Manufacturing",
+    "industry": "WOMEN'S, MISSES', AND JUNIORS OUTERWEAR"
+  },
+  {
+    "sicCode": 2340,
+    "office": "Office of Manufacturing",
+    "industry": "WOMEN'S, MISSES', CHILDREN'S & INFANTS' UNDERGARMENTS"
+  },
+  {
+    "sicCode": 2390,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS FABRICATED TEXTILE PRODUCTS"
+  },
+  {
+    "sicCode": 2400,
+    "office": "Office of Manufacturing",
+    "industry": "LUMBER & WOOD PRODUCTS (NO FURNITURE)"
+  },
+  {
+    "sicCode": 2421,
+    "office": "Office of Manufacturing",
+    "industry": "SAWMILLS & PLANTING MILLS, GENERAL"
+  },
+  {
+    "sicCode": 2430,
+    "office": "Office of Manufacturing",
+    "industry": "MILLWOOD, VENEER, PLYWOOD, & STRUCTURAL WOOD MEMBERS"
+  },
+  {
+    "sicCode": 2451,
+    "office": "Office of Manufacturing",
+    "industry": "MOBILE HOMES"
+  },
+  {
+    "sicCode": 2452,
+    "office": "Office of Manufacturing",
+    "industry": "PREFABRICATED WOOD BLDGS & COMPONENTS"
+  },
+  {
+    "sicCode": 2510,
+    "office": "Office of Manufacturing",
+    "industry": "HOUSEHOLD FURNITURE"
+  },
+  {
+    "sicCode": 2511,
+    "office": "Office of Manufacturing",
+    "industry": "WOOD HOUSEHOLD FURNITURE, (NO UPHOLSTERED)"
+  },
+  {
+    "sicCode": 2520,
+    "office": "Office of Manufacturing",
+    "industry": "OFFICE FURNITURE"
+  },
+  {
+    "sicCode": 2522,
+    "office": "Office of Manufacturing",
+    "industry": "OFFICE FURNITURE (NO WOOD)"
+  },
+  {
+    "sicCode": 2531,
+    "office": "Office of Manufacturing",
+    "industry": "PUBLIC BLDG & RELATED FURNITURE"
+  },
+  {
+    "sicCode": 2540,
+    "office": "Office of Manufacturing",
+    "industry": "PARTITIONS, SHELVG, LOCKERS, & OFFICE & STORE FIXTURES"
+  },
+  {
+    "sicCode": 2590,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS FURNITURE & FIXTURES"
+  },
+  {
+    "sicCode": 2600,
+    "office": "Office of Manufacturing",
+    "industry": "PAPERS & ALLIED PRODUCTS"
+  },
+  {
+    "sicCode": 2611,
+    "office": "Office of Manufacturing",
+    "industry": "PULP MILLS"
+  },
+  {
+    "sicCode": 2621,
+    "office": "Office of Manufacturing",
+    "industry": "PAPER MILLS"
+  },
+  {
+    "sicCode": 2631,
+    "office": "Office of Manufacturing",
+    "industry": "PAPERBOARD MILLS"
+  },
+  {
+    "sicCode": 2650,
+    "office": "Office of Manufacturing",
+    "industry": "PAPERBOARD CONTAINERS & BOXES"
+  },
+  {
+    "sicCode": 2670,
+    "office": "Office of Manufacturing",
+    "industry": "CONVERTED PAPER & PAPERBOARD PRODS (NO CONTANERS/BOXES)"
+  },
+  {
+    "sicCode": 2673,
+    "office": "Office of Manufacturing",
+    "industry": "PLASTICS, FOIL & COATED PAPER BAGS"
+  },
+  {
+    "sicCode": 2711,
+    "office": "Office of Manufacturing",
+    "industry": "NEWSPAPERS: PUBLISHING OR PUBLISHING & PRINTING"
+  },
+  {
+    "sicCode": 2721,
+    "office": "Office of Manufacturing",
+    "industry": "PERIODICALS: PUBLISHING OR PUBLISHING & PRINTING"
+  },
+  {
+    "sicCode": 2731,
+    "office": "Office of Manufacturing",
+    "industry": "BOOKS: PUBLISHING OR PUBLISHING & PRINTING"
+  },
+  {
+    "sicCode": 2732,
+    "office": "Office of Manufacturing",
+    "industry": "BOOK PRINTING"
+  },
+  {
+    "sicCode": 2741,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS PUBLISHING"
+  },
+  {
+    "sicCode": 2750,
+    "office": "Office of Manufacturing",
+    "industry": "COMMERCIAL PRINTING"
+  },
+  {
+    "sicCode": 2761,
+    "office": "Office of Manufacturing",
+    "industry": "MANIFOLD BUSINESS FORMS"
+  },
+  {
+    "sicCode": 2771,
+    "office": "Office of Manufacturing",
+    "industry": "GREETING CARDS"
+  },
+  {
+    "sicCode": 2780,
+    "office": "Office of Manufacturing",
+    "industry": "BLANKBOOKS, LOOSELEAF BINDERS & BOOKBINDG & RELATD WORK"
+  },
+  {
+    "sicCode": 2790,
+    "office": "Office of Manufacturing",
+    "industry": "SERVICE INDUSTRIES FOR THE PRINTING TRADE"
+  },
+  {
+    "sicCode": 2800,
+    "office": "Industrial Applications and Services",
+    "industry": "CHEMICALS & ALLIED PRODUCTS"
+  },
+  {
+    "sicCode": 2810,
+    "office": "Industrial Applications and Services",
+    "industry": "INDUSTRIAL INORGANIC CHEMICALS"
+  },
+  {
+    "sicCode": 2820,
+    "office": "Industrial Applications and Services",
+    "industry": "PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS)"
+  },
+  {
+    "sicCode": 2821,
+    "office": "Industrial Applications and Services",
+    "industry": "PLASTIC MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS"
+  },
+  {
+    "sicCode": 2833,
+    "office": "Office of Life Sciences",
+    "industry": "MEDICINAL CHEMICALS & BOTANICAL PRODUCTS"
+  },
+  {
+    "sicCode": 2834,
+    "office": "Office of Life Sciences",
+    "industry": "PHARMACEUTICAL PREPARATIONS"
+  },
+  {
+    "sicCode": 2835,
+    "office": "Office of Life Sciences",
+    "industry": "IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES"
+  },
+  {
+    "sicCode": 2836,
+    "office": "Office of Life Sciences",
+    "industry": "BIOLOGICAL PRODUCTS, (NO DISGNOSTIC SUBSTANCES)"
+  },
+  {
+    "sicCode": 2840,
+    "office": "Industrial Applications and Services",
+    "industry": "SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS"
+  },
+  {
+    "sicCode": 2842,
+    "office": "Industrial Applications and Services",
+    "industry": "SPECIALTY CLEANING, POLISHING AND SANITATION PREPARATIONS"
+  },
+  {
+    "sicCode": 2844,
+    "office": "Industrial Applications and Services",
+    "industry": "PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS"
+  },
+  {
+    "sicCode": 2851,
+    "office": "Industrial Applications and Services",
+    "industry": "PAINTS, VARNISHES, LACQUERS, ENAMELS & ALLIED PRODS"
+  },
+  {
+    "sicCode": 2860,
+    "office": "Industrial Applications and Services",
+    "industry": "INDUSTRIAL ORGANIC CHEMICALS"
+  },
+  {
+    "sicCode": 2870,
+    "office": "Industrial Applications and Services",
+    "industry": "AGRICULTURAL CHEMICALS"
+  },
+  {
+    "sicCode": 2890,
+    "office": "Industrial Applications and Services",
+    "industry": "MISCELLANEOUS CHEMICAL PRODUCTS"
+  },
+  {
+    "sicCode": 2891,
+    "office": "Industrial Applications and Services",
+    "industry": "ADHESIVES & SEALANTS"
+  },
+  {
+    "sicCode": 2911,
+    "office": "Office of Energy & Transportation",
+    "industry": "PETROLEUM REFINING"
+  },
+  {
+    "sicCode": 2950,
+    "office": "Office of Energy & Transportation",
+    "industry": "ASPHALT PAVING & ROOFING MATERIALS"
+  },
+  {
+    "sicCode": 2990,
+    "office": "Office of Energy & Transportation",
+    "industry": "MISCELLANEOUS PRODUCTS OF PETROLEUM & COAL"
+  },
+  {
+    "sicCode": 3011,
+    "office": "Office of Manufacturing",
+    "industry": "TIRES & INNER TUBES"
+  },
+  {
+    "sicCode": 3021,
+    "office": "Office of Manufacturing",
+    "industry": "RUBBER & PLASTICS FOOTWEAR"
+  },
+  {
+    "sicCode": 3050,
+    "office": "Office of Manufacturing",
+    "industry": "GASKETS, PACKG & SEALG DEVICES & RUBBER & PLASTICS HOSE"
+  },
+  {
+    "sicCode": 3060,
+    "office": "Office of Manufacturing",
+    "industry": "FABRICATED RUBBER PRODUCTS, NEC"
+  },
+  {
+    "sicCode": 3080,
+    "office": "Industrial Applications and Services",
+    "industry": "MISCELLANEOUS PLASTICS PRODUCTS"
+  },
+  {
+    "sicCode": 3081,
+    "office": "Industrial Applications and Services",
+    "industry": "UNSUPPORTED PLASTICS FILM & SHEET"
+  },
+  {
+    "sicCode": 3086,
+    "office": "Industrial Applications and Services",
+    "industry": "PLASTICS FOAM PRODUCTS"
+  },
+  {
+    "sicCode": 3089,
+    "office": "Industrial Applications and Services",
+    "industry": "PLASTICS PRODUCTS, NEC"
+  },
+  {
+    "sicCode": 3100,
+    "office": "Office of Manufacturing",
+    "industry": "LEATHER & LEATHER PRODUCTS"
+  },
+  {
+    "sicCode": 3140,
+    "office": "Office of Manufacturing",
+    "industry": "FOOTWEAR, (NO RUBBER)"
+  },
+  {
+    "sicCode": 3211,
+    "office": "Office of Manufacturing",
+    "industry": "FLAT GLASS"
+  },
+  {
+    "sicCode": 3220,
+    "office": "Office of Manufacturing",
+    "industry": "GLASS & GLASSWARE, PRESSED OR BLOWN"
+  },
+  {
+    "sicCode": 3221,
+    "office": "Office of Manufacturing",
+    "industry": "GLASS CONTAINERS"
+  },
+  {
+    "sicCode": 3231,
+    "office": "Office of Manufacturing",
+    "industry": "GLASS PRODUCTS, MADE OF PURCHASED GLASS"
+  },
+  {
+    "sicCode": 3241,
+    "office": "Office of Manufacturing",
+    "industry": "CEMENT, HYDRAULIC"
+  },
+  {
+    "sicCode": 3250,
+    "office": "Office of Manufacturing",
+    "industry": "STRUCTURAL CLAY PRODUCTS"
+  },
+  {
+    "sicCode": 3260,
+    "office": "Office of Manufacturing",
+    "industry": "POTTERY & RELATED PRODUCTS"
+  },
+  {
+    "sicCode": 3270,
+    "office": "Office of Manufacturing",
+    "industry": "CONCRETE, GYPSUM & PLASTER PRODUCTS"
+  },
+  {
+    "sicCode": 3272,
+    "office": "Office of Manufacturing",
+    "industry": "CONCRETE PRODUCTS, EXCEPT BLOCK & BRICK"
+  },
+  {
+    "sicCode": 3281,
+    "office": "Office of Manufacturing",
+    "industry": "CUT STONE & STONE PRODUCTS"
+  },
+  {
+    "sicCode": 3290,
+    "office": "Office of Manufacturing",
+    "industry": "ABRASIVE, ASBESTOS & MISC NONMETALLIC MINERAL PRODS"
+  },
+  {
+    "sicCode": 3310,
+    "office": "Office of Manufacturing",
+    "industry": "STEEL WORKS, BLAST FURNACES & ROLLING & FINISHING MILLS"
+  },
+  {
+    "sicCode": 3312,
+    "office": "Office of Manufacturing",
+    "industry": "STEEL WORKS, BLAST FURNACES & ROLLING MILLS (COKE OVENS)"
+  },
+  {
+    "sicCode": 3317,
+    "office": "Office of Manufacturing",
+    "industry": "STEEL PIPE & TUBES"
+  },
+  {
+    "sicCode": 3320,
+    "office": "Office of Manufacturing",
+    "industry": "IRON & STEEL FOUNDRIES"
+  },
+  {
+    "sicCode": 3330,
+    "office": "Office of Manufacturing",
+    "industry": "PRIMARY SMELTING & REFINING OF NONFERROUS METALS"
+  },
+  {
+    "sicCode": 3334,
+    "office": "Office of Manufacturing",
+    "industry": "PRIMARY PRODUCTION OF ALUMINUM"
+  },
+  {
+    "sicCode": 3341,
+    "office": "Office of Manufacturing",
+    "industry": "SECONDARY SMELTING & REFINING OF NONFERROUS METALS"
+  },
+  {
+    "sicCode": 3350,
+    "office": "Office of Manufacturing",
+    "industry": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS"
+  },
+  {
+    "sicCode": 3357,
+    "office": "Office of Manufacturing",
+    "industry": "DRAWING & INSULATING OF NONFERROUS WIRE"
+  },
+  {
+    "sicCode": 3360,
+    "office": "Office of Manufacturing",
+    "industry": "NONFERROUS FOUNDRIES (CASTINGS)"
+  },
+  {
+    "sicCode": 3390,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS PRIMARY METAL PRODUCTS"
+  },
+  {
+    "sicCode": 3411,
+    "office": "Office of Manufacturing",
+    "industry": "METAL CANS"
+  },
+  {
+    "sicCode": 3412,
+    "office": "Office of Manufacturing",
+    "industry": "METAL SHIPPING BARRELS, DRUMS, KEGS & PAILS"
+  },
+  {
+    "sicCode": 3420,
+    "office": "Office of Manufacturing",
+    "industry": "CUTLERY, HANDTOOLS & GENERAL HARDWARE"
+  },
+  {
+    "sicCode": 3430,
+    "office": "Office of Manufacturing",
+    "industry": "HEATING EQUIP, EXCEPT ELEC & WARM AIR; & PLUMBING FIXTURES"
+  },
+  {
+    "sicCode": 3433,
+    "office": "Office of Manufacturing",
+    "industry": "HEATING EQUIPMENT, EXCEPT ELECTRIC & WARM AIR FURNACES"
+  },
+  {
+    "sicCode": 3440,
+    "office": "Office of Manufacturing",
+    "industry": "FABRICATED STRUCTURAL METAL PRODUCTS"
+  },
+  {
+    "sicCode": 3442,
+    "office": "Office of Manufacturing",
+    "industry": "METAL DOORS, SASH, FRAMES, MOLDINGS & TRIM"
+  },
+  {
+    "sicCode": 3443,
+    "office": "Office of Manufacturing",
+    "industry": "FABRICATED PLATE WORK (BOILER SHOPS)"
+  },
+  {
+    "sicCode": 3444,
+    "office": "Office of Manufacturing",
+    "industry": "SHEET METAL WORK"
+  },
+  {
+    "sicCode": 3448,
+    "office": "Office of Manufacturing",
+    "industry": "PREFABRICATED METAL BUILDINGS & COMPONENTS"
+  },
+  {
+    "sicCode": 3451,
+    "office": "Office of Manufacturing",
+    "industry": "SCREW MACHINE PRODUCTS"
+  },
+  {
+    "sicCode": 3452,
+    "office": "Office of Manufacturing",
+    "industry": "BOLTS, NUTS, SCREWS, RIVETS & WASHERS"
+  },
+  {
+    "sicCode": 3460,
+    "office": "Office of Manufacturing",
+    "industry": "METAL FORGINGS & STAMPINGS"
+  },
+  {
+    "sicCode": 3470,
+    "office": "Office of Manufacturing",
+    "industry": "COATING, ENGRAVING & ALLIED SERVICES"
+  },
+  {
+    "sicCode": 3480,
+    "office": "Office of Manufacturing",
+    "industry": "ORDNANCE & ACCESSORIES, (NO VEHICLES/GUIDED MISSILES)"
+  },
+  {
+    "sicCode": 3490,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS FABRICATED METAL PRODUCTS"
+  },
+  {
+    "sicCode": 3510,
+    "office": "Office of Technology",
+    "industry": "ENGINES & TURBINES"
+  },
+  {
+    "sicCode": 3523,
+    "office": "Office of Technology",
+    "industry": "FARM MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 3524,
+    "office": "Office of Technology",
+    "industry": "LAWN & GARDEN TRACTORS & HOME LAWN & GARDENS EQUIP"
+  },
+  {
+    "sicCode": 3530,
+    "office": "Office of Technology",
+    "industry": "CONSTRUCTION, MINING & MATERIALS HANDLING MACHINERY & EQUIP"
+  },
+  {
+    "sicCode": 3531,
+    "office": "Office of Technology",
+    "industry": "CONSTRUCTION MACHINERY & EQUIP"
+  },
+  {
+    "sicCode": 3532,
+    "office": "Office of Technology",
+    "industry": "MINING MACHINERY & EQUIP (NO OIL & GAS FIELD MACH & EQUIP)"
+  },
+  {
+    "sicCode": 3533,
+    "office": "Office of Energy & Transportation",
+    "industry": "OIL & GAS FIELD MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 3537,
+    "office": "Office of Technology",
+    "industry": "INDUSTRIAL TRUCKS, TRACTORS, TRAILORS & STACKERS"
+  },
+  {
+    "sicCode": 3540,
+    "office": "Office of Technology",
+    "industry": "METALWORKG MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 3541,
+    "office": "Office of Technology",
+    "industry": "MACHINE TOOLS, METAL CUTTING TYPES"
+  },
+  {
+    "sicCode": 3550,
+    "office": "Office of Technology",
+    "industry": "SPECIAL INDUSTRY MACHINERY (NO METALWORKING MACHINERY)"
+  },
+  {
+    "sicCode": 3555,
+    "office": "Office of Technology",
+    "industry": "PRINTING TRADES MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 3559,
+    "office": "Office of Technology",
+    "industry": "SPECIAL INDUSTRY MACHINERY, NEC"
+  },
+  {
+    "sicCode": 3560,
+    "office": "Office of Technology",
+    "industry": "GENERAL INDUSTRIAL MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 3561,
+    "office": "Office of Technology",
+    "industry": "PUMPS & PUMPING EQUIPMENT"
+  },
+  {
+    "sicCode": 3562,
+    "office": "Office of Technology",
+    "industry": "BALL & ROLLER BEARINGS"
+  },
+  {
+    "sicCode": 3564,
+    "office": "Office of Technology",
+    "industry": "INDUSTRIAL & COMMERCIAL FANS & BLOWERS & AIR PURIFING EQUIP"
+  },
+  {
+    "sicCode": 3567,
+    "office": "Office of Technology",
+    "industry": "INDUSTRIAL PROCESS FURNACES & OVENS"
+  },
+  {
+    "sicCode": 3569,
+    "office": "Office of Technology",
+    "industry": "GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC"
+  },
+  {
+    "sicCode": 3570,
+    "office": "Office of Technology",
+    "industry": "COMPUTER & OFFICE EQUIPMENT"
+  },
+  {
+    "sicCode": 3571,
+    "office": "Office of Technology",
+    "industry": "ELECTRONIC COMPUTERS"
+  },
+  {
+    "sicCode": 3572,
+    "office": "Office of Technology",
+    "industry": "COMPUTER STORAGE DEVICES"
+  },
+  {
+    "sicCode": 3575,
+    "office": "Office of Technology",
+    "industry": "COMPUTER TERMINALS"
+  },
+  {
+    "sicCode": 3576,
+    "office": "Office of Technology",
+    "industry": "COMPUTER COMMUNICATIONS EQUIPMENT"
+  },
+  {
+    "sicCode": 3577,
+    "office": "Office of Technology",
+    "industry": "COMPUTER PERIPHERAL EQUIPMENT, NEC"
+  },
+  {
+    "sicCode": 3578,
+    "office": "Office of Technology",
+    "industry": "CALCULATING & ACCOUNTING MACHINES (NO ELECTRONIC COMPUTERS)"
+  },
+  {
+    "sicCode": 3579,
+    "office": "Office of Technology",
+    "industry": "OFFICE MACHINES, NEC"
+  },
+  {
+    "sicCode": 3580,
+    "office": "Office of Technology",
+    "industry": "REFRIGERATION & SERVICE INDUSTRY MACHINERY"
+  },
+  {
+    "sicCode": 3585,
+    "office": "Office of Technology",
+    "industry": "AIR-COND & WARM AIR HEATG EQUIP & COMM & INDL REFRIG EQUIP"
+  },
+  {
+    "sicCode": 3590,
+    "office": "Office of Technology",
+    "industry": "MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 3600,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)"
+  },
+  {
+    "sicCode": 3612,
+    "office": "Office of Manufacturing",
+    "industry": "POWER, DISTRIBUTION & SPECIALTY TRANSFORMERS"
+  },
+  {
+    "sicCode": 3613,
+    "office": "Office of Manufacturing",
+    "industry": "SWITCHGEAR & SWITCHBOARD APPARATUS"
+  },
+  {
+    "sicCode": 3620,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRICAL INDUSTRIAL APPARATUS"
+  },
+  {
+    "sicCode": 3621,
+    "office": "Office of Manufacturing",
+    "industry": "MOTORS & GENERATORS"
+  },
+  {
+    "sicCode": 3630,
+    "office": "Office of Manufacturing",
+    "industry": "HOUSEHOLD APPLIANCES"
+  },
+  {
+    "sicCode": 3634,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRIC HOUSEWARES & FANS"
+  },
+  {
+    "sicCode": 3640,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRIC LIGHTING & WIRING EQUIPMENT"
+  },
+  {
+    "sicCode": 3651,
+    "office": "Office of Manufacturing",
+    "industry": "HOUSEHOLD AUDIO & VIDEO EQUIPMENT"
+  },
+  {
+    "sicCode": 3652,
+    "office": "Office of Manufacturing",
+    "industry": "PHONOGRAPH RECORDS & PRERECORDED AUDIO TAPES & DISKS"
+  },
+  {
+    "sicCode": 3661,
+    "office": "Office of Manufacturing",
+    "industry": "TELEPHONE & TELEGRAPH APPARATUS"
+  },
+  {
+    "sicCode": 3663,
+    "office": "Office of Manufacturing",
+    "industry": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT"
+  },
+  {
+    "sicCode": 3669,
+    "office": "Office of Manufacturing",
+    "industry": "COMMUNICATIONS EQUIPMENT, NEC"
+  },
+  {
+    "sicCode": 3670,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRONIC COMPONENTS & ACCESSORIES"
+  },
+  {
+    "sicCode": 3672,
+    "office": "Office of Manufacturing",
+    "industry": "PRINTED CIRCUIT BOARDS"
+  },
+  {
+    "sicCode": 3674,
+    "office": "Office of Manufacturing",
+    "industry": "SEMICONDUCTORS & RELATED DEVICES"
+  },
+  {
+    "sicCode": 3677,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRONIC COILS, TRANSFORMERS & OTHER INDUCTORS"
+  },
+  {
+    "sicCode": 3678,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRONIC CONNECTORS"
+  },
+  {
+    "sicCode": 3679,
+    "office": "Office of Manufacturing",
+    "industry": "ELECTRONIC COMPONENTS, NEC"
+  },
+  {
+    "sicCode": 3690,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 3695,
+    "office": "Office of Manufacturing",
+    "industry": "MAGNETIC & OPTICAL RECORDING MEDIA"
+  },
+  {
+    "sicCode": 3711,
+    "office": "Office of Manufacturing",
+    "industry": "MOTOR VEHICLES & PASSENGER CAR BODIES"
+  },
+  {
+    "sicCode": 3713,
+    "office": "Office of Manufacturing",
+    "industry": "TRUCK & BUS BODIES"
+  },
+  {
+    "sicCode": 3714,
+    "office": "Office of Manufacturing",
+    "industry": "MOTOR VEHICLE PARTS & ACCESSORIES"
+  },
+  {
+    "sicCode": 3715,
+    "office": "Office of Manufacturing",
+    "industry": "TRUCK TRAILERS"
+  },
+  {
+    "sicCode": 3716,
+    "office": "Office of Manufacturing",
+    "industry": "MOTOR HOMES"
+  },
+  {
+    "sicCode": 3720,
+    "office": "Office of Manufacturing",
+    "industry": "AIRCRAFT & PARTS"
+  },
+  {
+    "sicCode": 3721,
+    "office": "Office of Manufacturing",
+    "industry": "AIRCRAFT"
+  },
+  {
+    "sicCode": 3724,
+    "office": "Office of Manufacturing",
+    "industry": "AIRCRAFT ENGINES & ENGINE PARTS"
+  },
+  {
+    "sicCode": 3728,
+    "office": "Office of Manufacturing",
+    "industry": "AIRCRAFT PARTS & AUXILIARY EQUIPMENT, NEC"
+  },
+  {
+    "sicCode": 3730,
+    "office": "Office of Manufacturing",
+    "industry": "SHIP & BOAT BUILDING & REPAIRING"
+  },
+  {
+    "sicCode": 3743,
+    "office": "Office of Manufacturing",
+    "industry": "RAILROAD EQUIPMENT"
+  },
+  {
+    "sicCode": 3751,
+    "office": "Office of Manufacturing",
+    "industry": "MOTORCYCLES, BICYCLES & PARTS"
+  },
+  {
+    "sicCode": 3760,
+    "office": "Office of Manufacturing",
+    "industry": "GUIDED MISSILES & SPACE VEHICLES & PARTS"
+  },
+  {
+    "sicCode": 3790,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS TRANSPORTATION EQUIPMENT"
+  },
+  {
+    "sicCode": 3812,
+    "office": "Office of Manufacturing",
+    "industry": "SEARCH, DETECTION, NAVAGATION, GUIDANCE, AERONAUTICAL SYS"
+  },
+  {
+    "sicCode": 3821,
+    "office": "Industrial Applications and Services",
+    "industry": "LABORATORY APPARATUS & FURNITURE"
+  },
+  {
+    "sicCode": 3822,
+    "office": "Industrial Applications and Services",
+    "industry": "AUTO CONTROLS FOR REGULATING RESIDENTIAL & COMML ENVIRONMENTS"
+  },
+  {
+    "sicCode": 3823,
+    "office": "Industrial Applications and Services",
+    "industry": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL"
+  },
+  {
+    "sicCode": 3824,
+    "office": "Industrial Applications and Services",
+    "industry": "TOTALIZING FLUID METERS & COUNTING DEVICES"
+  },
+  {
+    "sicCode": 3825,
+    "office": "Industrial Applications and Services",
+    "industry": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS"
+  },
+  {
+    "sicCode": 3826,
+    "office": "Industrial Applications and Services",
+    "industry": "LABORATORY ANALYTICAL INSTRUMENTS"
+  },
+  {
+    "sicCode": 3827,
+    "office": "Industrial Applications and Services",
+    "industry": "OPTICAL INSTRUMENTS & LENSES"
+  },
+  {
+    "sicCode": 3829,
+    "office": "Industrial Applications and Services",
+    "industry": "MEASURING & CONTROLLING DEVICES, NEC"
+  },
+  {
+    "sicCode": 3841,
+    "office": "Industrial Applications and Services",
+    "industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+  },
+  {
+    "sicCode": 3842,
+    "office": "Industrial Applications and Services",
+    "industry": "ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES"
+  },
+  {
+    "sicCode": 3843,
+    "office": "Industrial Applications and Services",
+    "industry": "DENTAL EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 3844,
+    "office": "Industrial Applications and Services",
+    "industry": "X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS"
+  },
+  {
+    "sicCode": 3845,
+    "office": "Industrial Applications and Services",
+    "industry": "ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS"
+  },
+  {
+    "sicCode": 3851,
+    "office": "Industrial Applications and Services",
+    "industry": "OPHTHALMIC GOODS"
+  },
+  {
+    "sicCode": 3861,
+    "office": "Industrial Applications and Services",
+    "industry": "PHOTOGRAPHIC EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 3873,
+    "office": "Industrial Applications and Services",
+    "industry": "WATCHES, CLOCKS, CLOCKWORK OPERATED DEVICES/PARTS"
+  },
+  {
+    "sicCode": 3910,
+    "office": "Office of Manufacturing",
+    "industry": "JEWELRY, SILVERWARE & PLATED WARE"
+  },
+  {
+    "sicCode": 3911,
+    "office": "Office of Manufacturing",
+    "industry": "JEWELRY, PRECIOUS METAL"
+  },
+  {
+    "sicCode": 3931,
+    "office": "Office of Manufacturing",
+    "industry": "MUSICAL INSTRUMENTS"
+  },
+  {
+    "sicCode": 3942,
+    "office": "Office of Manufacturing",
+    "industry": "DOLLS & STUFFED TOYS"
+  },
+  {
+    "sicCode": 3944,
+    "office": "Office of Manufacturing",
+    "industry": "GAMES, TOYS & CHILDREN'S VEHICLES (NO DOLLS & BICYCLES)"
+  },
+  {
+    "sicCode": 3949,
+    "office": "Office of Manufacturing",
+    "industry": "SPORTING & ATHLETIC GOODS, NEC"
+  },
+  {
+    "sicCode": 3950,
+    "office": "Office of Manufacturing",
+    "industry": "PENS, PENCILS & OTHER ARTISTS' MATERIALS"
+  },
+  {
+    "sicCode": 3960,
+    "office": "Office of Manufacturing",
+    "industry": "COSTUME JEWELRY & NOVELTIES"
+  },
+  {
+    "sicCode": 3990,
+    "office": "Office of Manufacturing",
+    "industry": "MISCELLANEOUS MANUFACTURING INDUSTRIES"
+  },
+  {
+    "sicCode": 4011,
+    "office": "Office of Energy & Transportation",
+    "industry": "RAILROADS, LINE-HAUL OPERATING"
+  },
+  {
+    "sicCode": 4013,
+    "office": "Office of Energy & Transportation",
+    "industry": "RAILROAD SWITCHING & TERMINAL ESTABLISHMENTS"
+  },
+  {
+    "sicCode": 4100,
+    "office": "Office of Energy & Transportation",
+    "industry": "LOCAL & SUBURBAN TRANSIT & INTERURBAN HWY PASSENGER TRANS"
+  },
+  {
+    "sicCode": 4210,
+    "office": "Office of Energy & Transportation",
+    "industry": "TRUCKING & COURIER SERVICES (NO AIR)"
+  },
+  {
+    "sicCode": 4213,
+    "office": "Office of Energy & Transportation",
+    "industry": "TRUCKING (NO LOCAL)"
+  },
+  {
+    "sicCode": 4220,
+    "office": "Office of Energy & Transportation",
+    "industry": "PUBLIC WAREHOUSING & STORAGE"
+  },
+  {
+    "sicCode": 4231,
+    "office": "Office of Energy & Transportation",
+    "industry": "TERMINAL MAINTENANCE FACILITIES FOR MOTOR FREIGHT TRANSPORT"
+  },
+  {
+    "sicCode": 4400,
+    "office": "Office of Energy & Transportation",
+    "industry": "WATER TRANSPORTATION"
+  },
+  {
+    "sicCode": 4412,
+    "office": "Office of Energy & Transportation",
+    "industry": "DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT"
+  },
+  {
+    "sicCode": 4512,
+    "office": "Office of Energy & Transportation",
+    "industry": "AIR TRANSPORTATION, SCHEDULED"
+  },
+  {
+    "sicCode": 4513,
+    "office": "Office of Energy & Transportation",
+    "industry": "AIR COURIER SERVICES"
+  },
+  {
+    "sicCode": 4522,
+    "office": "Office of Energy & Transportation",
+    "industry": "AIR TRANSPORTATION, NONSCHEDULED"
+  },
+  {
+    "sicCode": 4581,
+    "office": "Office of Energy & Transportation",
+    "industry": "AIRPORTS, FLYING FIELDS & AIRPORT TERMINAL SERVICES"
+  },
+  {
+    "sicCode": 4610,
+    "office": "Office of Energy & Transportation",
+    "industry": "PIPE LINES (NO NATURAL GAS)"
+  },
+  {
+    "sicCode": 4700,
+    "office": "Office of Energy & Transportation",
+    "industry": "TRANSPORTATION SERVICES"
+  },
+  {
+    "sicCode": 4731,
+    "office": "Office of Energy & Transportation",
+    "industry": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO"
+  },
+  {
+    "sicCode": 4812,
+    "office": "Office of Technology",
+    "industry": "RADIOTELEPHONE COMMUNICATIONS"
+  },
+  {
+    "sicCode": 4813,
+    "office": "Office of Technology",
+    "industry": "TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE)"
+  },
+  {
+    "sicCode": 4822,
+    "office": "Office of Technology",
+    "industry": "TELEGRAPH & OTHER MESSAGE COMMUNICATIONS"
+  },
+  {
+    "sicCode": 4832,
+    "office": "Office of Technology",
+    "industry": "RADIO BROADCASTING STATIONS"
+  },
+  {
+    "sicCode": 4833,
+    "office": "Office of Technology",
+    "industry": "TELEVISION BROADCASTING STATIONS"
+  },
+  {
+    "sicCode": 4841,
+    "office": "Office of Technology",
+    "industry": "CABLE & OTHER PAY TELEVISION SERVICES"
+  },
+  {
+    "sicCode": 4899,
+    "office": "Office of Technology",
+    "industry": "COMMUNICATIONS SERVICES, NEC"
+  },
+  {
+    "sicCode": 4900,
+    "office": "Office of Energy & Transportation",
+    "industry": "ELECTRIC, GAS & SANITARY SERVICES"
+  },
+  {
+    "sicCode": 4911,
+    "office": "Office of Energy & Transportation",
+    "industry": "ELECTRIC SERVICES"
+  },
+  {
+    "sicCode": 4922,
+    "office": "Office of Energy & Transportation",
+    "industry": "NATURAL GAS TRANSMISSION"
+  },
+  {
+    "sicCode": 4923,
+    "office": "Office of Energy & Transportation",
+    "industry": "NATURAL GAS TRANSMISISON & DISTRIBUTION"
+  },
+  {
+    "sicCode": 4924,
+    "office": "Office of Energy & Transportation",
+    "industry": "NATURAL GAS DISTRIBUTION"
+  },
+  {
+    "sicCode": 4931,
+    "office": "Office of Energy & Transportation",
+    "industry": "ELECTRIC & OTHER SERVICES COMBINED"
+  },
+  {
+    "sicCode": 4932,
+    "office": "Office of Energy & Transportation",
+    "industry": "GAS & OTHER SERVICES COMBINED"
+  },
+  {
+    "sicCode": 4941,
+    "office": "Office of Energy & Transportation",
+    "industry": "WATER SUPPLY"
+  },
+  {
+    "sicCode": 4950,
+    "office": "Office of Energy & Transportation",
+    "industry": "SANITARY SERVICES"
+  },
+  {
+    "sicCode": 4953,
+    "office": "Office of Energy & Transportation",
+    "industry": "REFUSE SYSTEMS"
+  },
+  {
+    "sicCode": 4955,
+    "office": "Office of Energy & Transportation",
+    "industry": "HAZARDOUS WASTE MANAGEMENT"
+  },
+  {
+    "sicCode": 4961,
+    "office": "Office of Energy & Transportation",
+    "industry": "STEAM & AIR-CONDITIONING SUPPLY"
+  },
+  {
+    "sicCode": 4991,
+    "office": "Office of Energy & Transportation",
+    "industry": "COGENERATION SERVICES & SMALL POWER PRODUCERS"
+  },
+  {
+    "sicCode": 5000,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-DURABLE GOODS"
+  },
+  {
+    "sicCode": 5010,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-MOTOR VEHICLES & MOTOR VEHICLE PARTS & SUPPLIES"
+  },
+  {
+    "sicCode": 5013,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-MOTOR VEHICLE SUPPLIES & NEW PARTS"
+  },
+  {
+    "sicCode": 5020,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-FURNITURE & HOME FURNISHINGS"
+  },
+  {
+    "sicCode": 5030,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-LUMBER & OTHER CONSTRUCTION MATERIALS"
+  },
+  {
+    "sicCode": 5031,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-LUMBER, PLYWOOD, MILLWORK & WOOD PANELS"
+  },
+  {
+    "sicCode": 5040,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-PROFESSIONAL & COMMERCIAL EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 5045,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-COMPUTERS & PERIPHERAL EQUIPMENT & SOFTWARE"
+  },
+  {
+    "sicCode": 5047,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-MEDICAL, DENTAL & HOSPITAL EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 5050,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-METALS & MINERALS (NO PETROLEUM)"
+  },
+  {
+    "sicCode": 5051,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-METALS SERVICE CENTERS & OFFICES"
+  },
+  {
+    "sicCode": 5063,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-ELECTRICAL APPARATUS & EQUIPMENT, WIRING SUPPLIES"
+  },
+  {
+    "sicCode": 5064,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-ELECTRICAL APPLIANCES, TV & RADIO SETS"
+  },
+  {
+    "sicCode": 5065,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC"
+  },
+  {
+    "sicCode": 5070,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-HARDWARE & PLUMBING & HEATING EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 5072,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-HARDWARE"
+  },
+  {
+    "sicCode": 5080,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-MACHINERY, EQUIPMENT & SUPPLIES"
+  },
+  {
+    "sicCode": 5082,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-CONSTRUCTION & MINING (NO PETRO) MACHINERY & EQUIP"
+  },
+  {
+    "sicCode": 5084,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-INDUSTRIAL MACHINERY & EQUIPMENT"
+  },
+  {
+    "sicCode": 5090,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-MISC DURABLE GOODS"
+  },
+  {
+    "sicCode": 5094,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-JEWELRY, WATCHES, PRECIOUS STONES & METALS"
+  },
+  {
+    "sicCode": 5099,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-DURABLE GOODS, NEC"
+  },
+  {
+    "sicCode": 5110,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-PAPER & PAPER PRODUCTS"
+  },
+  {
+    "sicCode": 5122,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-DRUGS, PROPRIETARIES & DRUGGISTS' SUNDRIES"
+  },
+  {
+    "sicCode": 5130,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-APPAREL, PIECE GOODS & NOTIONS"
+  },
+  {
+    "sicCode": 5140,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-GROCERIES & RELATED PRODUCTS"
+  },
+  {
+    "sicCode": 5141,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-GROCERIES, GENERAL LINE"
+  },
+  {
+    "sicCode": 5150,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-FARM PRODUCT RAW MATERIALS"
+  },
+  {
+    "sicCode": 5160,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-CHEMICALS & ALLIED PRODUCTS"
+  },
+  {
+    "sicCode": 5171,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-PETROLEUM BULK STATIONS & TERMINALS"
+  },
+  {
+    "sicCode": 5172,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-PETROLEUM & PETROLEUM PRODUCTS (NO BULK STATIONS)"
+  },
+  {
+    "sicCode": 5180,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-BEER, WINE & DISTILLED ALCOHOLIC BEVERAGES"
+  },
+  {
+    "sicCode": 5190,
+    "office": "Office of Trade & Services",
+    "industry": "WHOLESALE-MISCELLANEOUS NONDURABLE GOODS"
+  },
+  {
+    "sicCode": 5200,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-BUILDING MATERIALS, HARDWARE, GARDEN SUPPLY"
+  },
+  {
+    "sicCode": 5211,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS"
+  },
+  {
+    "sicCode": 5271,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-MOBILE HOME DEALERS"
+  },
+  {
+    "sicCode": 5311,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-DEPARTMENT STORES"
+  },
+  {
+    "sicCode": 5331,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-VARIETY STORES"
+  },
+  {
+    "sicCode": 5399,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-MISC GENERAL MERCHANDISE STORES"
+  },
+  {
+    "sicCode": 5400,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-FOOD STORES"
+  },
+  {
+    "sicCode": 5411,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-GROCERY STORES"
+  },
+  {
+    "sicCode": 5412,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-CONVENIENCE STORES"
+  },
+  {
+    "sicCode": 5500,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-AUTO DEALERS & GASOLINE STATIONS"
+  },
+  {
+    "sicCode": 5531,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-AUTO & HOME SUPPLY STORES"
+  },
+  {
+    "sicCode": 5600,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-APPAREL & ACCESSORY STORES"
+  },
+  {
+    "sicCode": 5621,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-WOMEN'S CLOTHING STORES"
+  },
+  {
+    "sicCode": 5651,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-FAMILY CLOTHING STORES"
+  },
+  {
+    "sicCode": 5661,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-SHOE STORES"
+  },
+  {
+    "sicCode": 5700,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-HOME FURNITURE, FURNISHINGS & EQUIPMENT STORES"
+  },
+  {
+    "sicCode": 5712,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-FURNITURE STORES"
+  },
+  {
+    "sicCode": 5731,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-RADIO, TV & CONSUMER ELECTRONICS STORES"
+  },
+  {
+    "sicCode": 5734,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-COMPUTER & COMPUTER SOFTWARE STORES"
+  },
+  {
+    "sicCode": 5735,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-RECORD & PRERECORDED TAPE STORES"
+  },
+  {
+    "sicCode": 5810,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-EATING & DRINKING PLACES"
+  },
+  {
+    "sicCode": 5812,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-EATING PLACES"
+  },
+  {
+    "sicCode": 5900,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-MISCELLANEOUS RETAIL"
+  },
+  {
+    "sicCode": 5912,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-DRUG STORES AND PROPRIETARY STORES"
+  },
+  {
+    "sicCode": 5940,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-MISCELLANEOUS SHOPPING GOODS STORES"
+  },
+  {
+    "sicCode": 5944,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-JEWELRY STORES"
+  },
+  {
+    "sicCode": 5945,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-HOBBY, TOY & GAME SHOPS"
+  },
+  {
+    "sicCode": 5960,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-NONSTORE RETAILERS"
+  },
+  {
+    "sicCode": 5961,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-CATALOG & MAIL-ORDER HOUSES"
+  },
+  {
+    "sicCode": 5990,
+    "office": "Office of Trade & Services",
+    "industry": "RETAIL-RETAIL STORES, NEC"
+  },
+  {
+    "sicCode": 6021,
+    "office": "Office of Finance",
+    "industry": "NATIONAL COMMERCIAL BANKS"
+  },
+  {
+    "sicCode": 6022,
+    "office": "Office of Finance",
+    "industry": "STATE COMMERCIAL BANKS"
+  },
+  {
+    "sicCode": 6029,
+    "office": "Office of Finance",
+    "industry": "COMMERCIAL BANKS, NEC"
+  },
+  {
+    "sicCode": 6035,
+    "office": "Office of Finance",
+    "industry": "SAVINGS INSTITUTION, FEDERALLY CHARTERED"
+  },
+  {
+    "sicCode": 6036,
+    "office": "Office of Finance",
+    "industry": "SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED"
+  },
+  {
+    "sicCode": 6099,
+    "office": "Office of Finance",
+    "industry": "FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+  },
+  {
+    "sicCode": 6111,
+    "office": "Office of Finance",
+    "industry": "FEDERAL & FEDERALLY-SPONSORED CREDIT AGENCIES"
+  },
+  {
+    "sicCode": 6141,
+    "office": "Office of Finance",
+    "industry": "PERSONAL CREDIT INSTITUTIONS"
+  },
+  {
+    "sicCode": 6153,
+    "office": "Office of Finance",
+    "industry": "SHORT-TERM BUSINESS CREDIT INSTITUTIONS"
+  },
+  {
+    "sicCode": 6159,
+    "office": "Office of Finance",
+    "industry": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+  },
+  {
+    "sicCode": 6162,
+    "office": "Office of Finance",
+    "industry": "MORTGAGE BANKERS & LOAN CORRESPONDENTS"
+  },
+  {
+    "sicCode": 6163,
+    "office": "Office of Finance",
+    "industry": "LOAN BROKERS"
+  },
+  {
+    "sicCode": 6172,
+    "office": "Office of Finance",
+    "industry": "FINANCE LESSORS"
+  },
+  {
+    "sicCode": 6189,
+    "office": "Office of Structured Finance",
+    "industry": "ASSET-BACKED SECURITIES"
+  },
+  {
+    "sicCode": 6199,
+    "office": "Office of Finance or Office of Crypto Assets",
+    "industry": "FINANCE SERVICES"
+  },
+  {
+    "sicCode": 6200,
+    "office": "Office of Crypto Assets",
+    "industry": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+  },
+  {
+    "sicCode": 6211,
+    "office": "Office of Finance or Office of Crypto Assets",
+    "industry": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+  },
+  {
+    "sicCode": 6221,
+    "office": "Office of Crypto Assets",
+    "industry": "COMMODITY CONTRACTS BROKERS & DEALERS"
+  },
+  {
+    "sicCode": 6282,
+    "office": "Office of Finance",
+    "industry": "INVESTMENT ADVICE"
+  },
+  {
+    "sicCode": 6311,
+    "office": "Office of Finance",
+    "industry": "LIFE INSURANCE"
+  },
+  {
+    "sicCode": 6321,
+    "office": "Office of Finance",
+    "industry": "ACCIDENT & HEALTH INSURANCE"
+  },
+  {
+    "sicCode": 6324,
+    "office": "Office of Finance",
+    "industry": "HOSPITAL & MEDICAL SERVICE PLANS"
+  },
+  {
+    "sicCode": 6331,
+    "office": "Office of Finance",
+    "industry": "FIRE, MARINE & CASUALTY INSURANCE"
+  },
+  {
+    "sicCode": 6351,
+    "office": "Office of Finance",
+    "industry": "SURETY INSURANCE"
+  },
+  {
+    "sicCode": 6361,
+    "office": "Office of Finance",
+    "industry": "TITLE INSURANCE"
+  },
+  {
+    "sicCode": 6399,
+    "office": "Office of Finance",
+    "industry": "INSURANCE CARRIERS, NEC"
+  },
+  {
+    "sicCode": 6411,
+    "office": "Office of Finance",
+    "industry": "INSURANCE AGENTS, BROKERS & SERVICE"
+  },
+  {
+    "sicCode": 6500,
+    "office": "Office of Real Estate & Construction",
+    "industry": "REAL ESTATE"
+  },
+  {
+    "sicCode": 6510,
+    "office": "Office of Real Estate & Construction",
+    "industry": "REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS"
+  },
+  {
+    "sicCode": 6512,
+    "office": "Office of Real Estate & Construction",
+    "industry": "OPERATORS OF NONRESIDENTIAL BUILDINGS"
+  },
+  {
+    "sicCode": 6513,
+    "office": "Office of Real Estate & Construction",
+    "industry": "OPERATORS OF APARTMENT BUILDINGS"
+  },
+  {
+    "sicCode": 6519,
+    "office": "Office of Real Estate & Construction",
+    "industry": "LESSORS OF REAL PROPERTY, NEC"
+  },
+  {
+    "sicCode": 6531,
+    "office": "Office of Real Estate & Construction",
+    "industry": "REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)"
+  },
+  {
+    "sicCode": 6532,
+    "office": "Office of Real Estate & Construction",
+    "industry": "REAL ESTATE DEALERS (FOR THEIR OWN ACCOUNT)"
+  },
+  {
+    "sicCode": 6552,
+    "office": "Office of Real Estate & Construction",
+    "industry": "LAND SUBDIVIDERS & DEVELOPERS (NO CEMETERIES)"
+  },
+  {
+    "sicCode": 6770,
+    "office": "Office of Real Estate & Construction",
+    "industry": "BLANK CHECKS"
+  },
+  {
+    "sicCode": 6792,
+    "office": "Office of Energy & Transportation",
+    "industry": "OIL ROYALTY TRADERS"
+  },
+  {
+    "sicCode": 6794,
+    "office": "Office of Real Estate & Construction",
+    "industry": "PATENT OWNERS & LESSORS"
+  },
+  {
+    "sicCode": 6795,
+    "office": "Office of Energy & Transportation",
+    "industry": "MINERAL ROYALTY TRADERS"
+  },
+  {
+    "sicCode": 6798,
+    "office": "Office of Real Estate & Construction",
+    "industry": "REAL ESTATE INVESTMENT TRUSTS"
+  },
+  {
+    "sicCode": 6799,
+    "office": "Office of Real Estate & Construction",
+    "industry": "INVESTORS, NEC"
+  },
+  {
+    "sicCode": 7000,
+    "office": "Office of Real Estate & Construction",
+    "industry": "HOTELS, ROOMING HOUSES, CAMPS & OTHER LODGING PLACES"
+  },
+  {
+    "sicCode": 7011,
+    "office": "Office of Real Estate & Construction",
+    "industry": "HOTELS & MOTELS"
+  },
+  {
+    "sicCode": 7200,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-PERSONAL SERVICES"
+  },
+  {
+    "sicCode": 7310,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-ADVERTISING"
+  },
+  {
+    "sicCode": 7311,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-ADVERTISING AGENCIES"
+  },
+  {
+    "sicCode": 7320,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-CONSUMER CREDIT REPORTING, COLLECTION AGENCIES"
+  },
+  {
+    "sicCode": 7330,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MAILING, REPRODUCTION, COMMERCIAL ART & PHOTOGRAPHY"
+  },
+  {
+    "sicCode": 7331,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-DIRECT MAIL ADVERTISING SERVICES"
+  },
+  {
+    "sicCode": 7340,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-TO DWELLINGS & OTHER BUILDINGS"
+  },
+  {
+    "sicCode": 7350,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING"
+  },
+  {
+    "sicCode": 7359,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-EQUIPMENT RENTAL & LEASING, NEC"
+  },
+  {
+    "sicCode": 7361,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-EMPLOYMENT AGENCIES"
+  },
+  {
+    "sicCode": 7363,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-HELP SUPPLY SERVICES"
+  },
+  {
+    "sicCode": 7370,
+    "office": "Office of Technology",
+    "industry": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+  },
+  {
+    "sicCode": 7371,
+    "office": "Office of Technology",
+    "industry": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+  },
+  {
+    "sicCode": 7372,
+    "office": "Office of Technology",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE"
+  },
+  {
+    "sicCode": 7373,
+    "office": "Office of Technology",
+    "industry": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+  },
+  {
+    "sicCode": 7374,
+    "office": "Office of Technology",
+    "industry": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+  },
+  {
+    "sicCode": 7377,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-COMPUTER RENTAL & LEASING"
+  },
+  {
+    "sicCode": 7380,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MISCELLANEOUS BUSINESS SERVICES"
+  },
+  {
+    "sicCode": 7381,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-DETECTIVE, GUARD & ARMORED CAR SERVICES"
+  },
+  {
+    "sicCode": 7384,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-PHOTOFINISHING LABORATORIES"
+  },
+  {
+    "sicCode": 7385,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-TELEPHONE INTERCONNECT SYSTEMS"
+  },
+  {
+    "sicCode": 7389,
+    "office": "Office of Trade & Services or Office of Energy & Transportation",
+    "industry": "SERVICES-BUSINESS SERVICES, NEC"
+  },
+  {
+    "sicCode": 7500,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-AUTOMOTIVE REPAIR, SERVICES & PARKING"
+  },
+  {
+    "sicCode": 7510,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-AUTO RENTAL & LEASING (NO DRIVERS)"
+  },
+  {
+    "sicCode": 7600,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MISCELLANEOUS REPAIR SERVICES"
+  },
+  {
+    "sicCode": 7812,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MOTION PICTURE & VIDEO TAPE PRODUCTION"
+  },
+  {
+    "sicCode": 7819,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-ALLIED TO MOTION PICTURE PRODUCTION"
+  },
+  {
+    "sicCode": 7822,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MOTION PICTURE & VIDEO TAPE DISTRIBUTION"
+  },
+  {
+    "sicCode": 7829,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-ALLIED TO MOTION PICTURE DISTRIBUTION"
+  },
+  {
+    "sicCode": 7830,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MOTION PICTURE THEATERS"
+  },
+  {
+    "sicCode": 7841,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-VIDEO TAPE RENTAL"
+  },
+  {
+    "sicCode": 7900,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-AMUSEMENT & RECREATION SERVICES"
+  },
+  {
+    "sicCode": 7948,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-RACING, INCLUDING TRACK OPERATION"
+  },
+  {
+    "sicCode": 7990,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION"
+  },
+  {
+    "sicCode": 7997,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MEMBERSHIP SPORTS & RECREATION CLUBS"
+  },
+  {
+    "sicCode": 8000,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-HEALTH SERVICES"
+  },
+  {
+    "sicCode": 8011,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+  },
+  {
+    "sicCode": 8050,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-NURSING & PERSONAL CARE FACILITIES"
+  },
+  {
+    "sicCode": 8051,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-SKILLED NURSING CARE FACILITIES"
+  },
+  {
+    "sicCode": 8060,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-HOSPITALS"
+  },
+  {
+    "sicCode": 8062,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-GENERAL MEDICAL & SURGICAL HOSPITALS, NEC"
+  },
+  {
+    "sicCode": 8071,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-MEDICAL LABORATORIES"
+  },
+  {
+    "sicCode": 8082,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-HOME HEALTH CARE SERVICES"
+  },
+  {
+    "sicCode": 8090,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-MISC HEALTH & ALLIED SERVICES, NEC"
+  },
+  {
+    "sicCode": 8093,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC"
+  },
+  {
+    "sicCode": 8111,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-LEGAL SERVICES"
+  },
+  {
+    "sicCode": 8200,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-EDUCATIONAL SERVICES"
+  },
+  {
+    "sicCode": 8300,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-SOCIAL SERVICES"
+  },
+  {
+    "sicCode": 8351,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-CHILD DAY CARE SERVICES"
+  },
+  {
+    "sicCode": 8600,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MEMBERSHIP ORGANIZATIONS"
+  },
+  {
+    "sicCode": 8700,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT"
+  },
+  {
+    "sicCode": 8711,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-ENGINEERING SERVICES"
+  },
+  {
+    "sicCode": 8731,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH"
+  },
+  {
+    "sicCode": 8734,
+    "office": "Industrial Applications and Services",
+    "industry": "SERVICES-TESTING LABORATORIES"
+  },
+  {
+    "sicCode": 8741,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MANAGEMENT SERVICES"
+  },
+  {
+    "sicCode": 8742,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+  },
+  {
+    "sicCode": 8744,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-FACILITIES SUPPORT MANAGEMENT SERVICES"
+  },
+  {
+    "sicCode": 8880,
+    "office": "Office of International Corp Fin",
+    "industry": "AMERICAN DEPOSITARY RECEIPTS"
+  },
+  {
+    "sicCode": 8888,
+    "office": "Office of International Corp Fin",
+    "industry": "FOREIGN GOVERNMENTS"
+  },
+  {
+    "sicCode": 8900,
+    "office": "Office of Trade & Services",
+    "industry": "SERVICES-SERVICES, NEC"
+  },
+  {
+    "sicCode": 9721,
+    "office": "Office of International Corp Fin",
+    "industry": "INTERNATIONAL AFFAIRS"
+  },
+  {
+    "sicCode": 9995,
+    "office": "Office of Real Estate & Construction",
+    "industry": "NON-OPERATING ESTABLISHMENTS"
+  }
+]
