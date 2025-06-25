@@ -1,0 +1,45 @@
+{
+  "name": "sic-data-lookup",
+  "version": "1.0.0",
+  "description": "A small JavaScript/TypeScript utility for SIC code data lookup.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "prebuild": "node scripts/generate-data.cjs",
+    "build": "npm run prebuild && tsc",
+    "test": "tsx tests/testSector.ts && tsx tests/testOfficeAndIndustry.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toniremi/sic-data-lookup.git"
+  },
+  "keywords": [
+    "sic",
+    "standard industrial classification",
+    "industry",
+    "sector",
+    "office",
+    "finance",
+    "business",
+    "data",
+    "lookup",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Antoni Remeseiro <antoniremeseiro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toniremi/sic-data-lookup/issues"
+  },
+  "homepage": "https://github.com/toniremi/sic-data-lookup#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "tsx": "^x.x.x",
+    "typescript": "^x.x.x"
+  }
+}
