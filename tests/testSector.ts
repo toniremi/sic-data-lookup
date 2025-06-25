@@ -1,7 +1,9 @@
 // tests/testSector.ts
 
 // Import from the package's intended entry point
-import {getSectorFromSic, getSicFromSector, SectorMap} from '../src/index.js';
+import {getSectorFromSic, getSicFromSector} from '../src/index.js';
+// Import sectorMap directly from mappings for testing purposes
+import {sectorMap} from '../src/mappings.js';
 
 console.log("--- Standard Cases (getSectorFromSic) ---");
 // Example from your prompt: 3571 should be Technology
@@ -88,19 +90,49 @@ const sicLongNum = 35712345;
 console.log(`SIC Code: ${sicLongNum} => Sector: ${getSectorFromSic(sicLongNum)}`); // Expected: Technology
 
 
+console.log("\n--- Comprehensive Sector Mapping Tests (getSectorFromSic) ---");
+
+// Iterate through each sector in the sectorMap and test a representative SIC code
+for (const sectorName in sectorMap) {
+    if (Object.prototype.hasOwnProperty.call(sectorMap, sectorName)) {
+        const prefixes = sectorMap[sectorName];
+        if (prefixes.length > 0) {
+            // Take the first prefix for simplicity
+            const prefix = prefixes[0];
+            // Construct a 4-digit SIC code for testing.
+            // If prefix is 2-digit, append "00". If 3-digit, append "0". If 4-digit, use as is.
+            let testSic = prefix;
+            if (prefix.length === 2) {
+                testSic += '00';
+            } else if (prefix.length === 3) {
+                testSic += '0';
+            }
+            // Ensure it's a number for some tests, though string input is handled.
+            const sicCodeAsNumber = parseInt(testSic, 10);
+
+            const detectedSector = getSectorFromSic(sicCodeAsNumber);
+            const testStatus = detectedSector === sectorName ? 'PASS' : `FAIL (Expected: ${sectorName}, Got: ${detectedSector})`;
+            console.log(`Testing Sector: '${sectorName}' with SIC: ${testSic} => Result: ${detectedSector} [${testStatus}]`);
+        } else {
+            console.log(`Sector: '${sectorName}' has no prefixes defined.`);
+        }
+    }
+}
+
+
 console.log("\n--- Testing getSicFromSector ---");
 
 // Test Case 1: Existing sector with multiple prefixes
 const techSector = 'Technology';
 const techSics = getSicFromSector(techSector);
 console.log(`\nSector: '${techSector}' => SIC Prefixes: [${techSics.join(', ')}]`);
-// Expected: ['357', '367', '381', '382', '48', '737']
+// Expected: ['357', '367', '381', '382', '48', '737'] (Note: Technology prefixes were manually defined)
 
 // Test Case 2: Existing sector with fewer prefixes
 const energySector = 'Energy';
 const energySics = getSicFromSector(energySector);
 console.log(`\nSector: '${energySector}' => SIC Prefixes: [${energySics.join(', ')}]`);
-// Expected: ['12', '13', '29']
+// Expected: ['12', '122', '13', '131', '138', '29', '291', '299', '46', '461', '517']
 
 // Test Case 3: Sector not found (case-sensitive)
 const nonExistentSector = 'UnknownSector';
@@ -109,10 +141,10 @@ console.log(`\nSector: '${nonExistentSector}' => SIC Prefixes: [${unknownSics.jo
 // Expected: []
 
 // Test Case 4: Another existing sector
-const healthcareSector = 'Healthcare';
+const healthcareSector = 'Health Care'; // Using "Health Care" from updated map
 const healthcareSics = getSicFromSector(healthcareSector);
 console.log(`\nSector: '${healthcareSector}' => SIC Prefixes: [${healthcareSics.join(', ')}]`);
-// Expected: ['283', '384', '385', '512', '591', '80']
+// Expected: ['283', '384', '385', '512', '80', '801', '805', '806', '807', '808', '809']
 
 // Test Case 5: Empty string as sector name
 const emptySector = '';
@@ -124,7 +156,7 @@ console.log(`\nSector: '${emptySector}' => SIC Prefixes: [${emptySics.join(', ')
 const lowerCaseTech = 'technology';
 const lowerCaseTechSics = getSicFromSector(lowerCaseTech);
 console.log(`\nSector: '${lowerCaseTech}' => SIC Prefixes: [${lowerCaseTechSics.join(', ')}]`);
-// Expected: [] (as 'technology' is not a key in sectorMap, it's 'Technology')
+// Expected: [] (as 'technology' is not a key in sectorMap, it's 'Technology' or 'Information Technology')
 
 // Test Case 7: Confirm immutability of returned array
 const originalPrefixes = getSicFromSector('Financials');
